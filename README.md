@@ -85,10 +85,10 @@ Title of your charts
 Type of your chart. Charts library is using Google Charts. You can refer to the chart type of the library. You can get the charts gallery here.
  
 **columns:**
-Column name of data. Column length data and data item must be the same. For example, if column data is [“Country”, “Value 1”, “Value 2”] then the each item of data must have 3 items.
+Column name of data. Column length data and data item must be the same. For example, if column data is `[“Country”, “Value 1”, “Value 2”]` then the each item of data must have 3 items.
  
 **data:**
-Data content that will present in charts. The structure of each item is [“label”, value1, value2]. The label must be string and the value must be integer or double.
+Data content that will present in charts. The structure of each item is `[“label”, value1, value2]`. The label must be string and the value must be integer or double.
  
 **DO NOT modify the stateCode and stateName attributes.**
  
